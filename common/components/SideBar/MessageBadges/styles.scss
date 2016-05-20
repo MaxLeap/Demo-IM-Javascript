@@ -1,0 +1,15 @@
+.sidebar-message-badges {
+  margin-top: 15px;
+  .message-badge-item {
+    cursor: pointer;
+    margin-top: 5px;
+    &.active{
+      background: rgba(0,0,0,0.1);
+    }
+  }
+  .message-badge-name {
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+  }
+}

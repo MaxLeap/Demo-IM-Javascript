@@ -1,0 +1,22 @@
+.group-info{
+  .group-member-item{
+    margin: 10px 0;
+  }
+  .group-member-delete{
+    float: right;
+  }
+  .send-message{
+    margin-top: 30px;
+  }
+  .edit-group-field{
+    opacity: 0.5;
+    margin-left: 10px;
+    cursor: pointer;
+    &:hover{
+      opacity: 1;
+    }
+  }
+  .edit-group-field-input{
+    display: inline-block;
+  }
+}

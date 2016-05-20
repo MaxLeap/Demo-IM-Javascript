@@ -1,0 +1,14 @@
+.sidebar-friend-list {
+  margin-top: 15px;
+  .friend-item {
+    cursor: pointer;
+    &.offline {
+      opacity: 0.5;
+    }
+  }
+  .friend-name {
+    display: inline-block;
+    width: 42px;
+    height: 42px;
+  }
+}

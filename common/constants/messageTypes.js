@@ -1,0 +1,3 @@
+export const RECEIVE_MESSAGE = 'RECEIVE_MESSAGE';
+export const SEND_MESSAGE = 'SEND_MESSAGE';
+export const OPEN_MESSAGE = 'OPEN_MESSAGE';
